@@ -1,67 +1,68 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/independent.png" group-title="Bangladesh*",Independent TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/channel24.png" group-title="Bangladesh*",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/news24.png" group-title="Bangladesh*",News 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/somoytv.png" group-title="Bangladesh*",Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/ekattor.png" group-title="Bangladesh*",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/jamunatv.png" group-title="Bangladesh*",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/starnews.png" group-title="Bangladesh*",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/dbcnews.png" group-title="Bangladesh*",DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/atnnews.png" group-title="Bangladesh*",ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/channeli.png" group-title="Bangladesh*",Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/channel9.png" group-title="Bangladesh*",Channel 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/maasranga.png" group-title="Bangladesh*",Maasranga TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/banglavision.png" group-title="Bangladesh*",BanglaVision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/ntv.png" group-title="Bangladesh*",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/btv.png" group-title="Bangladesh*",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/satv.png" group-title="Bangladesh*",SATV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/ekhontv.png" group-title="Bangladesh*",Ekhon TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/islamictv.png" group-title="Bangladesh*",Islamic TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/deeptotv.png" group-title="Bangladesh*",Deepto TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/akashdigital.png" group-title="Bangladesh*",Akash DTH 1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/akashdigital.png" group-title="Bangladesh*",Akash DTH 2
-https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saif99php/BDsaif07/main/logo/aljazeera.png" group-title="Bangladesh*",Al Jazeera English
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="SM All TV",Drama 24 
+12	http://vods2.aynascope.net/gseriesDrama/index.m3u8 
+13	 
+14	#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="SM All TV",BTV National 
+15	https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
+16	 
+17	#EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg" group-title="SM All TV",Channel 1 
+18	https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8 
+19	 
+20	#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png"group-title="SM All TV" group-title="SM All TV",Channel 1 News 
+21	https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8 
+22	 
+23	#EXTINF:-1 tvg-id="97000" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="SM All TV",Jamuna TV 
+24	https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8 
+25	 
+26	#EXTINF:-1 tvg-id="185000" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="SM All TV",DBC News HD 
+27	https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8 
+28	 
+29	#EXTINF:-1 tvg-id="229000" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="SM All TV",Maasranga TV 
+30	https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8 
+31	 
+32	#EXTINF:-1 tvg-id="102000" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-cntent/1739963327549.png" group-title="SM All TV",Ekattor HD 
+33	https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8 
+34	 
+35	#EXTINF:-1 tvg-id="94000" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="SM All TV",Channel 24 HD 
+36	https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8 
+37	 
+38	#EXTINF:-1 tvg-id="93000" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="SM All TV",ATN News 
+39	https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8 
+40	 
+41	#EXTINF:-1 tvg-id="186000" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="SM All TV",News 24 HD 
+42	https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8 
+43	 
+44	#EXTINF:-1 tvg-id="191000" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="SM All TV",Star News 
+45	https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8 
+46	 
+47	#EXTINF:-1 tvg-id="223000" tvg-name="Islamic TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="SM All TV",Islamic TV 
+48	https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8 
+49	 
+50	#EXTINF:-1 tvg-id="134000" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="SM All TV",Deepto TV HD 
+51	https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8 
+52	 
+53	#EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="SM All TV",Channel 9 HD 
+54	https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8 
+55	 
+56	#EXTINF:-1 tvg-id="141000" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="SM All TV",SRK TV 
+57	https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8 
+58	 
+59	#EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="SM All TV",Channel I HD 
+60	https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8 
+61	 
+62	#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="SM All TV",Bangla Vision 
+63	https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8 
+64	 
+65	#EXTINF:-1 tvg-id="99000" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="SM All TV",NTV 
+66	https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8 
+67	 
+68	#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="SM All TV",BTV 
+69	https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
+70	 
+71	#EXTINF:-1 tvg-id="169000" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="SM All TV",Al Jazeera 
+72	https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8 
+73	 
+74	#EXTINF:-1 tvg-id="245000" tvg-name="Al Quran" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="SM All TV",Al Quran 
+75	https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8 
+76	 
+77	#EXTINF:-1 tvg-id="247000" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="SM All TV",Independent TV 
+78	https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8 
