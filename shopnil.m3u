@@ -1,393 +1,182 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="BTV Chittagong" tvg-logo="https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc" group-title="Bangla Entertainment",BTV Chittagong
-https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1779283747
-#EXTINF:-1 tvg-name="Channel i" tvg-logo="https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204" group-title="Bangla Entertainment",Channel i
-https://tvsen6.aynaott.com/channeli/index.m3u8?e=1779283749
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/1a619c9b917eb35898020cd323e415a7" group-title="Bangla Entertainment",NTV
-https://tvsen5.aynaott.com/ntvbd/index.m3u8?e=1779283750
-#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/788ab3e49b2aa6af247722762ed6e72a" group-title="Bangla Entertainment",Bangla Vision
-https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1779283750
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Bangla Entertainment",RTV
-https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1779283751
-#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913" group-title="Bangla Entertainment",ATN Bangla
-https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752
-#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8" group-title="Bangla Entertainment",Ekushey TV
-https://tvsen6.aynaott.com/etv/index.m3u8?e=1779283752
-#EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737" group-title="Bangla Entertainment",Maasranga TV
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1779283753
-#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c" group-title="Bangla Entertainment",Deepto TV
-https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8?e=1779283753
-#EXTINF:-1 tvg-name="Ravc7gPCZpxk" tvg-logo="https://ui-avatars.com/api/?name=Ravc7gPCZpxk&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Ravc7gPCZpxk
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1779283754
-#EXTINF:-1 tvg-name="deshtv" tvg-logo="https://ui-avatars.com/api/?name=deshtv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",deshtv
-https://tvsen6.aynaott.com/deshtv/index.m3u8?e=1779283755
-#EXTINF:-1 tvg-name="boishakhitv" tvg-logo="https://ui-avatars.com/api/?name=boishakhitv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",boishakhitv
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1779283755
-#EXTINF:-1 tvg-name="channel9" tvg-logo="https://ui-avatars.com/api/?name=channel9&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",channel9
-https://tvsen6.aynaott.com/channel9/index.m3u8?e=1779283756
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/1a619c9b917eb35898020cd323e415a7" group-title="Bangla Entertainment",NTV
-https://tvsen6.aynaott.com/asiantv/index.m3u8?e=1779283756
-#EXTINF:-1 tvg-name="satv" tvg-logo="https://ui-avatars.com/api/?name=satv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",satv
-https://tvsen6.aynaott.com/satv/index.m3u8?e=1779283757
-#EXTINF:-1 tvg-name="banglatv" tvg-logo="https://ui-avatars.com/api/?name=banglatv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",banglatv
-https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779283758
-#EXTINF:-1 tvg-name="anandatv" tvg-logo="https://ui-avatars.com/api/?name=anandatv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",anandatv
-https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1779283759
-#EXTINF:-1 tvg-name="mytv" tvg-logo="https://ui-avatars.com/api/?name=mytv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",mytv
-https://tvsen6.aynaott.com/mytv/index.m3u8?e=1779283760
-#EXTINF:-1 tvg-name="globaltvhd" tvg-logo="https://ui-avatars.com/api/?name=globaltvhd&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",globaltvhd
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1779283760
-#EXTINF:-1 tvg-name="bijoytv" tvg-logo="https://ui-avatars.com/api/?name=bijoytv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",bijoytv
-https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1779283761
-#EXTINF:-1 tvg-name="nexustv" tvg-logo="https://ui-avatars.com/api/?name=nexustv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",nexustv
-https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1779283761
-#EXTINF:-1 tvg-name="mohonatv" tvg-logo="https://ui-avatars.com/api/?name=mohonatv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",mohonatv
-https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1779283762
-#EXTINF:-1 tvg-name="thikanatv" tvg-logo="https://ui-avatars.com/api/?name=thikanatv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",thikanatv
-https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
-#EXTINF:-1 tvg-name="7ff57cc9046b4c188b51a0d506f36e7f" tvg-logo="https://ui-avatars.com/api/?name=7ff57cc9046b4c188b51a0d506f36e7f&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",7ff57cc9046b4c188b51a0d506f36e7f
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-#EXTINF:-1 tvg-name="liveabr" tvg-logo="https://ui-avatars.com/api/?name=liveabr&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",liveabr
-https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-name="1800" tvg-logo="https://ui-avatars.com/api/?name=1800&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",1800
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 tvg-name="800" tvg-logo="https://ui-avatars.com/api/?name=800&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",800
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
-#EXTINF:-1 tvg-name="2500" tvg-logo="https://ui-avatars.com/api/?name=2500&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",2500
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://tvassets.roarzone.net/images/34.png" group-title="Bangla Entertainment",Zee Bangla HD
-https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla_cinema/index.m3u8?token=33eb90cb5993505e7adebcdc9fe5a680f5ff40b4-89433e784e249e183a59446474d0fff1-1780020920-1780010120
-#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://tvassets.roarzone.net/images/33.png" group-title="Bangla Entertainment",Sony Aath
-https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/index.m3u8?token=571cbfa1fa2e6d2ce7d53975a8ae77afb5189d20-eb13b2ccb090084878804fb0e801091a-1780020920-1780010120
-#EXTINF:-1 tvg-name="BTV National" tvg-logo="https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc" group-title="Bangla Entertainment",BTV National
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports Channels",T Sports HD
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784
-#EXTINF:-1 tvg-name="PtvSports" tvg-logo="https://ui-avatars.com/api/?name=PtvSports&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",PtvSports
-https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784
-#EXTINF:-1 tvg-name="asports" tvg-logo="https://ui-avatars.com/api/?name=asports&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",asports
-https://tvsen6.aynaott.com/asports/index.m3u8?e=1779283785
-#EXTINF:-1 tvg-name="CricketGold" tvg-logo="https://ui-avatars.com/api/?name=CricketGold&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",CricketGold
-https://tvsen6.aynaott.com/CricketGold/index.m3u8?e=1779283786
-#EXTINF:-1 tvg-name="golfchannel" tvg-logo="https://ui-avatars.com/api/?name=golfchannel&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",golfchannel
-https://tvsen6.aynaott.com/golfchannel/index.m3u8?e=1779283789
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="foxsports2" tvg-logo="https://ui-avatars.com/api/?name=foxsports2&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",foxsports2
-https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790
-#EXTINF:-1 tvg-name="espn" tvg-logo="https://ui-avatars.com/api/?name=espn&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",espn
-https://tvsen5.aynaott.com/espn/index.m3u8?e=1779283793
-#EXTINF:-1 tvg-name="tsn2" tvg-logo="https://ui-avatars.com/api/?name=tsn2&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",tsn2
-https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1779283793
-#EXTINF:-1 tvg-name="talkSPORT" tvg-logo="https://ui-avatars.com/api/?name=talkSPORT&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",talkSPORT
-https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1779283794
-#EXTINF:-1 tvg-name="chunklist" tvg-logo="https://ui-avatars.com/api/?name=chunklist&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",chunklist
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="409" tvg-logo="https://ui-avatars.com/api/?name=409&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",409
-https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
-#EXTINF:-1 tvg-name="MarqueeSportsNetwork" tvg-logo="https://ui-avatars.com/api/?name=MarqueeSportsNetwork&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",MarqueeSportsNetwork
-https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1779283796
-#EXTINF:-1 tvg-name="SportsGrid" tvg-logo="https://ui-avatars.com/api/?name=SportsGrid&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",SportsGrid
-https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1779283798
-#EXTINF:-1 tvg-name="manifest" tvg-logo="https://ui-avatars.com/api/?name=manifest&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",manifest
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-#EXTINF:-1 tvg-name="GTV (Gazi TV)" tvg-logo="https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4" group-title="Bangla Entertainment",GTV (Gazi TV)
-https://tvsen6.aynaott.com/bloombergtv/index.m3u8?e=1779283799
-#EXTINF:-1 tvg-name="ngrp:sportsone_all" tvg-logo="https://ui-avatars.com/api/?name=ngrp%3Asportsone_all&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",ngrp:sportsone_all
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-name="willowhd" tvg-logo="https://ui-avatars.com/api/?name=willowhd&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",willowhd
-https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803
-#EXTINF:-1 tvg-name="nfl" tvg-logo="https://ui-avatars.com/api/?name=nfl&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",nfl
-https://tvsen6.aynaott.com/nfl/index.m3u8?e=1779283803
-#EXTINF:-1 tvg-name="tsn1" tvg-logo="https://ui-avatars.com/api/?name=tsn1&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",tsn1
-https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779283805
-#EXTINF:-1 tvg-name="tsn3" tvg-logo="https://ui-avatars.com/api/?name=tsn3&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",tsn3
-https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1779283805
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="mts-web" tvg-logo="https://ui-avatars.com/api/?name=mts-web&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",mts-web
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-name="chunklist" tvg-logo="https://ui-avatars.com/api/?name=chunklist&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",chunklist
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="sspts1" tvg-logo="https://ui-avatars.com/api/?name=sspts1&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",sspts1
-https://tvsen7.aynaott.com/sspts1/index.m3u8
-#EXTINF:-1 tvg-name="1" tvg-logo="https://ui-avatars.com/api/?name=1&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",1
-https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
-#EXTINF:-1 tvg-name="manifest" tvg-logo="https://ui-avatars.com/api/?name=manifest&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",manifest
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
-#EXTINF:-1 tvg-name="Somoy News" tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60" group-title="Live News",Somoy News
-https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1779283766
-#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8" group-title="Live News",Jamuna TV
-https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1779283771
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55" group-title="Live News",Channel 24
-https://tvsen6.aynaott.com/channel24/index.m3u8?e=1779283767
-#EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7" group-title="Live News",Ekattor TV
-https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8?e=1779283770
-#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913" group-title="Live News",ATN News
-https://tvsen6.aynaott.com/atnnews/index.m3u8?e=1779283767
-#EXTINF:-1 tvg-name="independenttv" tvg-logo="https://ui-avatars.com/api/?name=independenttv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",independenttv
-https://tvsen6.aynaott.com/independenttv/index.m3u8?e=1779283768
-#EXTINF:-1 tvg-name="dbcnews" tvg-logo="https://ui-avatars.com/api/?name=dbcnews&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",dbcnews
-https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1779283768
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/1a619c9b917eb35898020cd323e415a7" group-title="Bangla Entertainment",NTV
-https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1779283769
-#EXTINF:-1 tvg-name="news24" tvg-logo="https://ui-avatars.com/api/?name=news24&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",news24
-https://tvsen6.aynaott.com/news24/index.m3u8?e=1779283769
-#EXTINF:-1 tvg-name="cnn" tvg-logo="https://ui-avatars.com/api/?name=cnn&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",cnn
-https://tvsen6.aynaott.com/cnn/index.m3u8?e=1779283771
-#EXTINF:-1 tvg-name="AJE" tvg-logo="https://ui-avatars.com/api/?name=AJE&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",AJE
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-name="nhkworld" tvg-logo="https://ui-avatars.com/api/?name=nhkworld&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",nhkworld
-https://tvsen6.aynaott.com/nhkworld/index.m3u8?e=1779283773
-#EXTINF:-1 tvg-name="Live Stream" tvg-logo="https://ui-avatars.com/api/?name=Live%20Stream&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Live Stream
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="ANB_News" tvg-logo="https://ui-avatars.com/api/?name=ANB_News&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",ANB_News
-https://tvsen6.aynaott.com/ANB_News/index.m3u8?e=1779283775
-#EXTINF:-1 tvg-name="News1India" tvg-logo="https://ui-avatars.com/api/?name=News1India&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",News1India
-https://tvsen6.aynaott.com/News1India/index.m3u8?e=1779283776
-#EXTINF:-1 tvg-name="SadhnaPrimeNews" tvg-logo="https://ui-avatars.com/api/?name=SadhnaPrimeNews&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",SadhnaPrimeNews
-https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8?e=1779283776
-#EXTINF:-1 tvg-name="liveabr" tvg-logo="https://ui-avatars.com/api/?name=liveabr&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",liveabr
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="skynews" tvg-logo="https://ui-avatars.com/api/?name=skynews&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",skynews
-https://tvsen5.aynaott.com/skynews/index.m3u8?e=1779283779
-#EXTINF:-1 tvg-name="HindiKhabar" tvg-logo="https://ui-avatars.com/api/?name=HindiKhabar&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",HindiKhabar
-https://tvsen7.aynaott.com/HindiKhabar/index.m3u8?e=1779283779
-#EXTINF:-1 tvg-name="6cd2f649739a45ca9de1daf81cc7d0f2" tvg-logo="https://ui-avatars.com/api/?name=6cd2f649739a45ca9de1daf81cc7d0f2&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",6cd2f649739a45ca9de1daf81cc7d0f2
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-name="oan_720p" tvg-logo="https://ui-avatars.com/api/?name=oan_720p&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",oan_720p
-https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="presstv_5_482" tvg-logo="https://ui-avatars.com/api/?name=presstv_5_482&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",presstv_5_482
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 tvg-name="rplusnews24x7" tvg-logo="https://ui-avatars.com/api/?name=rplusnews24x7&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",rplusnews24x7
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1 tvg-name="R_Bangla" tvg-logo="https://ui-avatars.com/api/?name=R_Bangla&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",R_Bangla
-https://tvsen5.aynaott.com/R_Bangla/index.m3u8?e=1779283835
-#EXTINF:-1 tvg-name="zee24" tvg-logo="https://ui-avatars.com/api/?name=zee24&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",zee24
-https://tvsen6.aynaott.com/zee24/index.m3u8?e=1779283836
-#EXTINF:-1 tvg-name="kolkatatv" tvg-logo="https://ui-avatars.com/api/?name=kolkatatv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",kolkatatv
-https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1779283837
-#EXTINF:-1 tvg-name="kgo_24x7_news" tvg-logo="https://ui-avatars.com/api/?name=kgo_24x7_news&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",kgo_24x7_news
-https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
-#EXTINF:-1 tvg-name="AbcNews" tvg-logo="https://ui-avatars.com/api/?name=AbcNews&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",AbcNews
-https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1779283763
-#EXTINF:-1 tvg-name="smil:BEKPRIMEeast.smil" tvg-logo="https://ui-avatars.com/api/?name=smil%3ABEKPRIMEeast.smil&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",smil:BEKPRIMEeast.smil
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="output" tvg-logo="https://ui-avatars.com/api/?name=output&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",output
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 tvg-name="durontotv-live" tvg-logo="https://ui-avatars.com/api/?name=durontotv-live&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",durontotv-live
-https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779283757
-#EXTINF:-1 tvg-name="cartoonnetwork" tvg-logo="https://ui-avatars.com/api/?name=cartoonnetwork&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",cartoonnetwork
-https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1779283917
-#EXTINF:-1 tvg-name="disneyjr" tvg-logo="https://ui-avatars.com/api/?name=disneyjr&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",disneyjr
-https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1779283918
-#EXTINF:-1 tvg-name="nicktoons" tvg-logo="https://ui-avatars.com/api/?name=nicktoons&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",nicktoons
-https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1779283918
-#EXTINF:-1 tvg-name="nickjr" tvg-logo="https://ui-avatars.com/api/?name=nickjr&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",nickjr
-https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1779283919
-#EXTINF:-1 tvg-name="3abnkids" tvg-logo="https://ui-avatars.com/api/?name=3abnkids&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",3abnkids
-https://tvsen6.aynaott.com/3abnkids/index.m3u8?e=1779283920
-#EXTINF:-1 tvg-name="diostevekids" tvg-logo="https://ui-avatars.com/api/?name=diostevekids&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",diostevekids
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-name="Live Stream" tvg-logo="https://ui-avatars.com/api/?name=Live%20Stream&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Live Stream
-https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="MoonbugKids" tvg-logo="https://ui-avatars.com/api/?name=MoonbugKids&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",MoonbugKids
-https://tvsen6.aynaott.com/MoonbugKids/index.m3u8?e=1779283923
-#EXTINF:-1 tvg-name="disney" tvg-logo="https://ui-avatars.com/api/?name=disney&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",disney
-https://tvsen7.aynaott.com/disney/index.m3u8?e=1779283925
-#EXTINF:-1 tvg-name="disneyxd" tvg-logo="https://ui-avatars.com/api/?name=disneyxd&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",disneyxd
-https://tvsen5.aynaott.com/disneyxd/index.m3u8?e=1779283925
-#EXTINF:-1 tvg-name="nicklodean" tvg-logo="https://ui-avatars.com/api/?name=nicklodean&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",nicklodean
-https://tvsen7.aynaott.com/nicklodean/index.m3u8?e=1779283926
-#EXTINF:-1 tvg-name="teennick" tvg-logo="https://ui-avatars.com/api/?name=teennick&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",teennick
-https://tvsen7.aynaott.com/teennick/index.m3u8?e=1779283927
-#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8" group-title="Bangla Entertainment",Ekushey TV
-https://tvsen6.aynaott.com/ytv/index.m3u8?e=1779283928
-#EXTINF:-1 tvg-name="nro19k2h" tvg-logo="https://ui-avatars.com/api/?name=nro19k2h&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",nro19k2h
-https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-#EXTINF:-1 tvg-name="junglebook" tvg-logo="https://ui-avatars.com/api/?name=junglebook&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",junglebook
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 tvg-name="mono" tvg-logo="https://ui-avatars.com/api/?name=mono&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",mono
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="movie_bangla" tvg-logo="https://ui-avatars.com/api/?name=movie_bangla&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",movie_bangla
-https://edge2.roarzone.net:8447/roarzone/edge3/movie_bangla/index.m3u8?token=f1153ce106f107a9c3e37bd2b551e3d0184519c3-cfc48222db91c2002e7fae0d54efda6b-1780020918-1780010118
-#EXTINF:-1 tvg-name="pix11" tvg-logo="https://ui-avatars.com/api/?name=pix11&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",pix11
-https://tvsen6.aynaott.com/pix11/index.m3u8?e=1779283842
-#EXTINF:-1 tvg-name="amc" tvg-logo="https://ui-avatars.com/api/?name=amc&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",amc
-https://tvsen6.aynaott.com/amc/index.m3u8?e=1779283842
-#EXTINF:-1 tvg-name="axs" tvg-logo="https://ui-avatars.com/api/?name=axs&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",axs
-https://tvsen6.aynaott.com/axs/index.m3u8?e=1779283843
-#EXTINF:-1 tvg-name="tbs_tv_web.smil" tvg-logo="https://ui-avatars.com/api/?name=tbs_tv_web.smil&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",tbs_tv_web.smil
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Live Stream" tvg-logo="https://ui-avatars.com/api/?name=Live%20Stream&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Live Stream
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 tvg-name="Live Stream" tvg-logo="https://ui-avatars.com/api/?name=Live%20Stream&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Live Stream
-https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
-#EXTINF:-1 tvg-name="mono.ts" tvg-logo="https://ui-avatars.com/api/?name=mono.ts&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",mono.ts
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="partyuniverse" tvg-logo="https://ui-avatars.com/api/?name=partyuniverse&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",partyuniverse
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-name="b4u_music" tvg-logo="https://ui-avatars.com/api/?name=b4u_music&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",b4u_music
-https://edge2.roarzone.net:8447/roarzone/edge3/b4u_music/index.m3u8?token=c8e1b3ce4fc9be68c84c9bba76eef808a3d55290-236586535b0196bd8ca943fe94d83b05-1780020920-1780010120
-#EXTINF:-1 tvg-name="srktv.stream" tvg-logo="https://ui-avatars.com/api/?name=srktv.stream&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",srktv.stream
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="stream" tvg-logo="https://ui-avatars.com/api/?name=stream&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",stream
-https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="powerturkhd.smil" tvg-logo="https://ui-avatars.com/api/?name=powerturkhd.smil&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",powerturkhd.smil
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Live Stream" tvg-logo="https://ui-avatars.com/api/?name=Live%20Stream&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Live Stream
-https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="a05z" tvg-logo="https://ui-avatars.com/api/?name=a05z&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",a05z
-https://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-name="Animal-Planet-158-3" tvg-logo="https://ui-avatars.com/api/?name=Animal-Planet-158-3&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Animal-Planet-158-3
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1 tvg-name="RDSSocialTV" tvg-logo="https://ui-avatars.com/api/?name=RDSSocialTV&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",RDSSocialTV
-https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8?e=1779283862
-#EXTINF:-1 tvg-name="hbo" tvg-logo="https://ui-avatars.com/api/?name=hbo&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",hbo
-https://tvsen5.aynaott.com/hbo/index.m3u8?e=1779283863
-#EXTINF:-1 tvg-name="hbo2" tvg-logo="https://ui-avatars.com/api/?name=hbo2&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",hbo2
-https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1779283871
-#EXTINF:-1 tvg-name="cgtnDocumentary" tvg-logo="https://ui-avatars.com/api/?name=cgtnDocumentary&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",cgtnDocumentary
-https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8?e=1779283864
-#EXTINF:-1 tvg-name="foxbusiness" tvg-logo="https://ui-avatars.com/api/?name=foxbusiness&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",foxbusiness
-https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1779283865
-#EXTINF:-1 tvg-name="fox5" tvg-logo="https://ui-avatars.com/api/?name=fox5&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",fox5
-https://tvsen6.aynaott.com/fox5/index.m3u8?e=1779283866
-#EXTINF:-1 tvg-name="discoveryfamily" tvg-logo="https://ui-avatars.com/api/?name=discoveryfamily&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",discoveryfamily
-https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1779283866
-#EXTINF:-1 tvg-name="bravo" tvg-logo="https://ui-avatars.com/api/?name=bravo&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",bravo
-https://tvsen7.aynaott.com/bravo/index.m3u8?e=1779283867
-#EXTINF:-1 tvg-name="comedycentral" tvg-logo="https://ui-avatars.com/api/?name=comedycentral&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",comedycentral
-https://tvsen7.aynaott.com/comedycentral/index.m3u8?e=1779283868
-#EXTINF:-1 tvg-name="cooking" tvg-logo="https://ui-avatars.com/api/?name=cooking&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",cooking
-https://tvsen7.aynaott.com/cooking/index.m3u8?e=1779283869
-#EXTINF:-1 tvg-name="epix" tvg-logo="https://ui-avatars.com/api/?name=epix&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",epix
-https://tvsen7.aynaott.com/epix/index.m3u8?e=1779283869
-#EXTINF:-1 tvg-name="fx" tvg-logo="https://ui-avatars.com/api/?name=fx&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",fx
-https://tvsen7.aynaott.com/fx/index.m3u8?e=1779283870
-#EXTINF:-1 tvg-name="foodnetwork" tvg-logo="https://ui-avatars.com/api/?name=foodnetwork&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",foodnetwork
-https://tvsen6.aynaott.com/foodnetwork/index.m3u8?e=1779283870
-#EXTINF:-1 tvg-name="GTV (Gazi TV)" tvg-logo="https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4" group-title="Bangla Entertainment",GTV (Gazi TV)
-https://tvsen7.aynaott.com/hgtv/index.m3u8?e=1779283871
-#EXTINF:-1 tvg-name="laff" tvg-logo="https://ui-avatars.com/api/?name=laff&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",laff
-https://tvsen7.aynaott.com/laff/index.m3u8?e=1779283872
-#EXTINF:-1 tvg-name="lifetime" tvg-logo="https://ui-avatars.com/api/?name=lifetime&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",lifetime
-https://tvsen7.aynaott.com/lifetime/index.m3u8?e=1779283872
-#EXTINF:-1 tvg-name="natgeo" tvg-logo="https://ui-avatars.com/api/?name=natgeo&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",natgeo
-https://tvsen6.aynaott.com/natgeo/index.m3u8?e=1779283873
-#EXTINF:-1 tvg-name="syfy" tvg-logo="https://ui-avatars.com/api/?name=syfy&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",syfy
-https://tvsen7.aynaott.com/syfy/index.m3u8?e=1779283874
-#EXTINF:-1 tvg-name="tlc_hd" tvg-logo="https://ui-avatars.com/api/?name=tlc_hd&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",tlc_hd
-https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1779283875
-#EXTINF:-1 tvg-name="travelxp" tvg-logo="https://ui-avatars.com/api/?name=travelxp&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",travelxp
-https://tvsen6.aynaott.com/travelxp/index.m3u8?e=1779283876
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-name="Live Stream" tvg-logo="https://ui-avatars.com/api/?name=Live%20Stream&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Live Stream
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="stream" tvg-logo="https://ui-avatars.com/api/?name=stream&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",stream
-https://ptravelhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/1a619c9b917eb35898020cd323e415a7" group-title="Bangla Entertainment",NTV
-https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
-#EXTINF:-1 tvg-name="476" tvg-logo="https://ui-avatars.com/api/?name=476&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",476
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 tvg-name="BTV National" tvg-logo="https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc" group-title="Bangla Entertainment",BTV National
-https://tvsen7.aynaott.com/ibtvusa/index.m3u8?e=1779283876
-#EXTINF:-1 tvg-name="cnbc" tvg-logo="https://ui-avatars.com/api/?name=cnbc&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",cnbc
-https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1779283878
-#EXTINF:-1 tvg-name="cbs" tvg-logo="https://ui-avatars.com/api/?name=cbs&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",cbs
-https://tvsen7.aynaott.com/cbs/index.m3u8?e=1779283878
-#EXTINF:-1 tvg-name="cp24" tvg-logo="https://ui-avatars.com/api/?name=cp24&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",cp24
-https://tvsen6.aynaott.com/cp24/index.m3u8?e=1779283879
-#EXTINF:-1 tvg-name="mtv" tvg-logo="https://ui-avatars.com/api/?name=mtv&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",mtv
-https://tvsen6.aynaott.com/mtv/index.m3u8?e=1779283879
-#EXTINF:-1 tvg-name="usa" tvg-logo="https://ui-avatars.com/api/?name=usa&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",usa
-https://tvsen6.aynaott.com/usa/index.m3u8?e=1779283880
-#EXTINF:-1 tvg-name="msnbc" tvg-logo="https://ui-avatars.com/api/?name=msnbc&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",msnbc
-https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1779283880
-#EXTINF:-1 tvg-name="amg01076-lightningintern-actionhollywood-samsungnz" tvg-logo="https://ui-avatars.com/api/?name=amg01076-lightningintern-actionhollywood-samsungnz&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",amg01076-lightningintern-actionhollywood-samsungnz
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="amg01438-ewscrippscompan-courttv-tablo" tvg-logo="https://ui-avatars.com/api/?name=amg01438-ewscrippscompan-courttv-tablo&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",amg01438-ewscrippscompan-courttv-tablo
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-name="GoldminesBollywood" tvg-logo="https://ui-avatars.com/api/?name=GoldminesBollywood&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",GoldminesBollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
-#EXTINF:-1 tvg-name="AssamTalks" tvg-logo="https://ui-avatars.com/api/?name=AssamTalks&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",AssamTalks
-https://tvsen7.aynaott.com/AssamTalks/index.m3u8?e=1779283888
-#EXTINF:-1 tvg-name="TaazaTV" tvg-logo="https://ui-avatars.com/api/?name=TaazaTV&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",TaazaTV
-https://tvsen7.aynaott.com/TaazaTV/index.m3u8?e=1779283889
-#EXTINF:-1 tvg-name="Dangal" tvg-logo="https://ui-avatars.com/api/?name=Dangal&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Dangal
-https://tvsen6.aynaott.com/Dangal/index.m3u8?e=1779283890
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://cdn-3.pishow.tv/live/230/master.m3u8
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-name="9xjalwa" tvg-logo="https://ui-avatars.com/api/?name=9xjalwa&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",9xjalwa
-https://tvsen6.aynaott.com/9xjalwa/index.m3u8?e=1779283896
-#EXTINF:-1 tvg-name="9X_Tashan" tvg-logo="https://ui-avatars.com/api/?name=9X_Tashan&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",9X_Tashan
-https://tvsen6.aynaott.com/9X_Tashan/index.m3u8?e=1779283897
-#EXTINF:-1 tvg-name="Dhinchaak" tvg-logo="https://ui-avatars.com/api/?name=Dhinchaak&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Dhinchaak
-https://tvsen6.aynaott.com/Dhinchaak/index.m3u8?e=1779283897
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/1a619c9b917eb35898020cd323e415a7" group-title="Bangla Entertainment",NTV
-https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1779283898
-#EXTINF:-1 tvg-name="Network10" tvg-logo="https://ui-avatars.com/api/?name=Network10&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Network10
-https://tvsen6.aynaott.com/Network10/index.m3u8?e=1779283899
-#EXTINF:-1 tvg-name="RepublicTVBharat" tvg-logo="https://ui-avatars.com/api/?name=RepublicTVBharat&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",RepublicTVBharat
-https://tvsen6.aynaott.com/RepublicTVBharat/index.m3u8?e=1779283899
-#EXTINF:-1 tvg-name="hindimovies" tvg-logo="https://ui-avatars.com/api/?name=hindimovies&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",hindimovies
-https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1 tvg-name="live" tvg-logo="https://ui-avatars.com/api/?name=live&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",live
-https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-#EXTINF:-1 tvg-name="955ad3298db330b5ee880c2c9e6f23a0.sdp" tvg-logo="https://ui-avatars.com/api/?name=955ad3298db330b5ee880c2c9e6f23a0.sdp&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",955ad3298db330b5ee880c2c9e6f23a0.sdp
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="output" tvg-logo="https://ui-avatars.com/api/?name=output&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",output
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 tvg-name="mono" tvg-logo="https://ui-avatars.com/api/?name=mono&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",mono
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Bangla Entertainment",RTV
-https://protokolldns.xyz/rtvislamweb554/index.m3u8
-#EXTINF:-1 tvg-name="master" tvg-logo="https://ui-avatars.com/api/?name=master&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",master
-https://cdn-4.pishow.tv/live/229/master.m3u8
-#EXTINF:-1 tvg-name="deen" tvg-logo="https://ui-avatars.com/api/?name=deen&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",deen
-https://tvsen7.aynaott.com/deen/index.m3u8?e=1779283935
-#EXTINF:-1 tvg-name="eman" tvg-logo="https://ui-avatars.com/api/?name=eman&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",eman
-https://tvsen6.aynaott.com/eman/index.m3u8?e=1779283935
-#EXTINF:-1 tvg-name="MadaniTV" tvg-logo="https://ui-avatars.com/api/?name=MadaniTV&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",MadaniTV
-https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1779283937
-#EXTINF:-1 tvg-name="TheWeatherChannel" tvg-logo="https://ui-avatars.com/api/?name=TheWeatherChannel&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",TheWeatherChannel
-https://tvsen6.aynaott.com/TheWeatherChannel/index.m3u8?e=1779283877
-#EXTINF:-1 tvg-name="amg00684-accuweather-accuweather-plex" tvg-logo="https://ui-avatars.com/api/?name=amg00684-accuweather-accuweather-plex&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",amg00684-accuweather-accuweather-plex
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1 tvg-name="stream" tvg-logo="https://ui-avatars.com/api/?name=stream&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",stream
-https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-name="ngrp:weather_loop.stream_all" tvg-logo="https://ui-avatars.com/api/?name=ngrp%3Aweather_loop.stream_all&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",ngrp:weather_loop.stream_all
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Live Stream" tvg-logo="https://ui-avatars.com/api/?name=Live%20Stream&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",Live Stream
-https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="web" tvg-logo="https://ui-avatars.com/api/?name=web&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",web
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:-1 tvg-name="srpksasaudiaradio" tvg-logo="https://ui-avatars.com/api/?name=srpksasaudiaradio&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",srpksasaudiaradio
-https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-#EXTINF:-1 tvg-name="abnurdu" tvg-logo="https://ui-avatars.com/api/?name=abnurdu&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",abnurdu
-https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-#EXTINF:-1 tvg-name="live" tvg-logo="https://ui-avatars.com/api/?name=live&background=0d0e12&color=00f2fe&rounded=true" group-title="Other Streams",live
-https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+{
+  "categories": [
+    {
+      "name": "Bangla",
+      "movies": [
+        {
+          "name": "Indian teen with pinkish",
+          "logo": "https://www.freepornvideo.sex/contents/videos_screenshots/33000/33922/392x294/5.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Indian.teen.with.pinkish.puss.gets.a.hardcore.romp.with.close-up.action.mp4",
+       
+        },
+        {
+          "name": "Observe Sanjana, the Indian",
+          "logo": "https://www.freepornvideo.sex/contents/videos_screenshots/28000/28817/392x294/2.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Observe.Sanjana.the.Indian.pornographic.star.take.on.a.gang.of.new.bodybuilders.in.molten.hard-core.activity.mp4",
+        
+        },
+        {
+          "name": "Is the brother-in-law's job",
+          "logo": "https://ic-vt-nss.xhpingcdn.com/a/OTc0ZjJiZDI2NzhhMjJmNzJiN2UwY2Y2N2I0ODA2YWQ/s(w:526,h:298),webp/027/137/641/1280x720.17549096.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Is.the.Brother-in-law.s.Job.to.Give.His.Sister-in-law.Pleasure.by.Fucking.Her.mp4",
+       
+        },
+        {
+          "name": "Devor en Bhabhi gaan naar een heel oud",
+          "logo": "https://ic-vt-nss.xhpingcdn.com/a/YjlhYzkyY2ZlOWYyODkzMzM4OGFiZmE0OWQxNGU1MWI/s(w:526,h:298),webp/024/865/810/1280x720.17200256.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Devor.en.Bhabhi.gaan.naar.een.heel.oud.huis.en.hebben.plotseline.seks.met.angst.mp4",
+       
+        },
+        {
+          "name": "Devor & Bhabi neuken elkaar",
+          "logo": "https://ic-vt-nss.xhpingcdn.com/a/OWEwY2RkMjU5ODk0ODJkZGUzNzRlMDY0YTIzMmRlNTI/s(w:1280,h:720),webp/026/567/370/1280x720.17474642.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Devor.Bhabi.neuken.elkaar.in.angst.en.laten.iedereen.in.het.geheim.in.huis.achter.mp4",
+        
+        },
+        {
+          "name": "Younger sent his older pussy for fucking",
+          "logo": "https://ic-vt-nss.xhpingcdn.com/a/MDQ0MjYxOTFmMmQwNmI3NjFkODU3NDFmNDkwZTczMGQ/s(w:526,h:298),webp/028/191/999/1280x720.17654210.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Younger.Sent.His.Older.Pussy.for.Fucking.Porn.e1.mp4",
+        
+        },
+        {
+          "name": "BD CUTE GIRL",
+          "logo": "https://i.ibb.co.com/mr3rXyY6/Capt-Yure.png",
+          "link": "https://github.com/zibon220/JXC1/releases/download/JXC/videoplayback.5.1.mp4",
+        
+        },
+        {
+          "name": "Bd Mms Video Red Shirt",
+          "logo": "https://i.ibb.co.com/V7SXWzC/Captture.png",
+          "link": "https://github.com/zibon220/JXC1/releases/download/JXC/video_2026-02-26_20-46-07.mp4",
+       
+        },
+        {
+          "name": "Yasmin-Khatun 7",
+          "logo": "https://i.ibb.co.com/hRt7RL67/Yasmin-Khatun-7.png",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Yasmin.Khatun.7.mp4",
+        
+        },
+        {
+          "name": "Yasmin-Khatun 6",
+          "logo": "https://i.ibb.co.com/gbYWZ2m5/Yasmin-Khatun-6.png",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Yasmin.Khatun.6.mp4",
+        
+        },
+        {
+          "name": "Yasmin-Khatun 5",
+          "logo": "https://i.ibb.co.com/nqqdBWj7/Yasmin-Khatun-5.png",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Yasmin.Khatun.5.mp4",
+       
+        },
+        {
+          "name": "Yasmin-Khatun 4",
+          "logo": "https://i.ibb.co.com/w1FgRCN/Yasmin-Khatun-4.png",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Yasmin.Khatun.4.mp4",
+        
+        },
+        {
+          "name": "Yasmin-Khatun 3",
+          "logo": "https://i.ibb.co.com/fdvMh9GZ/Yasmin-Khatun-3.png",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Yasmin.Khatun.3.mp4",
+     
+        },
+        {
+          "name": "Yasmin-Khatun 2",
+          "logo": "https://i.ibb.co.com/p6fj7V2L/Yasmin-Khatun-2.png",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Yasmin.Khatun.2.mp4",
+          
+        },
+        {
+          "name": "Yasmin-Khatun1",
+          "logo": "https://i.ibb.co.com/PGYS1hzt/Yasmin-Khatun1.png",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Yasmin.Khatun.1.mp4",
+      
+        },
+        {
+          "name": "BD HIJABI QUEN",
+          "logo": "https://i.ibb.co.com/VptmSqLC/Captur-Re.png",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Chomolokko399.mp4",
+        
+        },
+        {
+          "name": "Bangla Cute Girl 2016",
+          "logo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0il0NXkmiP4y02dEwJQjTlB5TeF1yU5VkDZjXTV5fonlpeNzE",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/BanGLa.Bangladeshi.Girl.mp4",
+       
+        },
+        {
+          "name": "Dhaka Sexy Bhabi",
+          "logo": "https://pornktubes.net/wp-content/uploads/2021/07/Most-Popular-bengali-bhabi-MMS-Leaked-HD-desi-bhabhi-bf.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/PomPomBD.mp4",
+        
+        },
+        {
+          "name": "শিল্পী সিমা সরকার",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklGldDHNIkuw6e3idwGigVms2Rc2fnvkIAg&s",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/-.-.mp4",
+       
+        },
+        {
+          "name": "Nujhat Tiktok Bd",
+          "logo": "https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/628091655_1430652472187578_5644254257757166861_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=wnfWHPgmuXIQ7kNvwEF6wtg&_nc_oc=Adl3iz0C-1SaQ1xmm84lCcFWZ5aOuUiOTMSbFIGyIfkgE7BW2zAm0P6ZBKQJOgpfnhE&_nc_zt=23&_nc_ht=scontent.fdac151-1.fna&_nc_gid=e_LrnMORZq8Pu3QT_imZqw&oh=00_AfsDNM-biBgZAfnjG-WLsM40muD6bwiKbWfBW6t3wH65pQ&oe=69948D35",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Nujhat.Tiktok.Bd.mp4",
+          
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "movies": [
+        {
+          "name": "Indian Bahu Jamal gets her tight pussy",
+          "logo": "https://www.freepornvideo.sex/contents/videos_screenshots/33000/33376/392x294/3.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Indian.Bahu.Jamal.gets.her.tight.pussy.pounded.by.Sasurji.s.big.cock_2.mp4",
+         
+        },
+        {
+          "name": "Horny Indian Bhabhi Entices",
+          "logo": "https://www.freepornvideo.sex/contents/videos_screenshots/34000/34367/392x294/1.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Horny.Indian.Bhabhi.Entices.Drivers.for.a.Xxx.Tough.Smash-a-thon.with.a.dark-skinned-haired.ultra-cutie.and.her.wondrous.mp4",
+        
+        },
+        {
+          "name": "Your DESI FINEST FRIEND",
+          "logo": "https://www.freepornvideo.sex/contents/videos_screenshots/19000/19199/392x294/1.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Your.DESI.FINEST.FRIEND.Lets.You.TRAMP.Her.Out.CUMSHOT-CREAMPIE.mp4",
+      
+        },
+        {
+          "name": "Stepmommy predominates & humps desi",
+          "logo": "https://www.freepornvideo.sex/contents/videos_screenshots/24000/24804/392x294/1.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Stepmommy.predominates.humps.desi.guy.with.enslaved.in.front.of.son-in-law.mp4",
+      
+        },
+        {
+          "name": "Brother-in-law and step-sister",
+          "logo": "https://www.freepornvideo.sex/contents/videos_screenshots/26000/26463/392x294/1.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Brother-in-law.and.step-sister-in-law.have.steaming.hookup.in.a.horny.cowgirl.rail.mp4",
+     
+        },
+        {
+          "name": "UnensParished: Desi",
+          "logo": "https://www.freepornvideo.sex/contents/videos_screenshots/33000/33970/392x294/1.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/UnensParished-.Desi.Cherry.Gal.Gonsho.Goes.Wild.with.with.models.in.with.when.she.misconceived.at.home.-.Hindi.audio.mp4",
+         
+        },
+        {
+          "name": "Hot Indian college girl",
+          "logo": "https://www.freepornvideo.sex/contents/videos_screenshots/33000/33700/392x294/1.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/Hot.Indian.college.girl.s.first.time.home.hump.with.stepbrother.in.hot.homemade.video.mp4",
+       
+        },
+        {
+          "name": "First-time Indian college",
+          "logo": "https://www.freepornvideo.sex/contents/videos_screenshots/33000/33968/392x294/5.jpg",
+          "link": "https://github.com/nirob1520/Roaster-Prime/releases/download/GhostLiveTv/First-time.Indian.college.girl.gets.her.tight.pussy.drilled.by.her.tison.master.mp4",
+         
+        }
+      ]
+    }
+  ]
+}
